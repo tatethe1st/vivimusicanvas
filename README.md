@@ -7,6 +7,4 @@
       "album": "Album Name",
       "url": "https://vivimusicanvas.mkmdevilmi.workers.dev/Song/your_video.m3u8"
     }
-  ]
-}
-3. Commit and Push
+  
